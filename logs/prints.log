@@ -1,0 +1,80 @@
+23:20:42.597 [TestNG-tests-3] DEBUG test.LoginTest - Browser got launched
+23:20:49.273 [TestNG-tests-3] DEBUG test.LoginTest - Navigated to Application Url
+23:20:49.665 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Account Dropdown
+23:20:52.641 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Login Option
+23:20:55.756 [TestNG-tests-3] DEBUG test.LoginTest - Email addressed got entered
+23:20:56.109 [TestNG-tests-3] DEBUG test.LoginTest - Password got entered
+23:20:56.773 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on Login button
+23:20:57.010 [TestNG-tests-3] DEBUG test.LoginTest - User got logged in
+23:20:59.129 [TestNG-tests-3] INFO  test.LoginTest - Login Test Got Passed
+23:21:04.635 [TestNG-tests-3] DEBUG test.LoginTest - Brower got closed
+23:28:18.964 [TestNG-tests-3] DEBUG test.LoginTest - Browser got launched
+23:28:25.746 [TestNG-tests-3] DEBUG test.LoginTest - Navigated to Application Url
+23:28:26.168 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Account Dropdown
+23:28:29.052 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Login Option
+23:28:32.146 [TestNG-tests-3] DEBUG test.LoginTest - Email addressed got entered
+23:28:32.493 [TestNG-tests-3] DEBUG test.LoginTest - Password got entered
+23:28:33.098 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on Login button
+23:28:33.304 [TestNG-tests-3] DEBUG test.LoginTest - User got logged in
+23:28:35.918 [TestNG-tests-3] INFO  test.LoginTest - Login Test Got Passed
+23:28:41.104 [TestNG-tests-3] DEBUG test.LoginTest - Brower got closed
+18:53:21.684 [main] DEBUG test.LoginTest - Browser got launched
+18:53:25.462 [main] DEBUG test.LoginTest - Navigated to Application Url
+18:53:25.917 [main] DEBUG test.LoginTest - Clicked on My Account Dropdown
+18:53:27.711 [main] DEBUG test.LoginTest - Clicked on My Login Option
+18:53:30.961 [main] DEBUG test.LoginTest - Email addressed got entered
+18:53:31.463 [main] DEBUG test.LoginTest - Password got entered
+18:53:32.230 [main] DEBUG test.LoginTest - Clicked on Login button
+18:53:32.593 [main] DEBUG test.LoginTest - User got logged in
+18:53:34.902 [main] INFO  test.LoginTest - Login Test Got Passed
+18:53:40.267 [main] DEBUG test.LoginTest - Brower got closed
+19:41:49.558 [TestNG-tests-3] DEBUG test.LoginTest - Browser got launched
+19:42:03.261 [TestNG-tests-3] DEBUG test.LoginTest - Navigated to Application Url
+19:42:05.494 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Account Dropdown
+19:42:08.384 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Login Option
+19:42:13.045 [TestNG-tests-3] DEBUG test.LoginTest - Email addressed got entered
+19:42:14.500 [TestNG-tests-3] DEBUG test.LoginTest - Password got entered
+19:42:15.689 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on Login button
+19:42:16.175 [TestNG-tests-3] DEBUG test.LoginTest - User got logged in
+19:42:18.384 [TestNG-tests-3] INFO  test.LoginTest - Login Test Got Passed
+19:42:23.964 [TestNG-tests-3] DEBUG test.LoginTest - Brower got closed
+19:43:56.875 [TestNG-tests-3] DEBUG test.LoginTest - Browser got launched
+19:44:00.298 [TestNG-tests-3] DEBUG test.LoginTest - Navigated to Application Url
+19:44:01.029 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Account Dropdown
+19:44:02.283 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Login Option
+19:44:05.414 [TestNG-tests-3] DEBUG test.LoginTest - Email addressed got entered
+19:44:05.668 [TestNG-tests-3] DEBUG test.LoginTest - Password got entered
+19:44:06.358 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on Login button
+19:44:06.646 [TestNG-tests-3] DEBUG test.LoginTest - User got logged in
+19:44:08.400 [TestNG-tests-3] INFO  test.LoginTest - Login Test Got Passed
+19:44:14.013 [TestNG-tests-3] DEBUG test.LoginTest - Brower got closed
+20:14:02.188 [TestNG-tests-3] DEBUG test.LoginTest - Browser got launched
+20:14:06.581 [TestNG-tests-3] DEBUG test.LoginTest - Navigated to Application Url
+20:14:07.788 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Account Dropdown
+20:14:10.591 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Login Option
+20:14:13.702 [TestNG-tests-3] DEBUG test.LoginTest - Email addressed got entered
+20:14:14.015 [TestNG-tests-3] DEBUG test.LoginTest - Password got entered
+20:14:15.190 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on Login button
+20:14:15.553 [TestNG-tests-3] DEBUG test.LoginTest - User got logged in
+20:14:18.817 [TestNG-tests-3] INFO  test.LoginTest - Login Test Got Passed
+20:14:24.265 [TestNG-tests-3] DEBUG test.LoginTest - Brower got closed
+10:30:50.952 [TestNG-tests-3] DEBUG test.LoginTest - Browser got launched
+10:30:59.558 [TestNG-tests-3] DEBUG test.LoginTest - Navigated to Application Url
+10:31:00.248 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Account Dropdown
+10:31:01.180 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Login Option
+10:31:05.133 [TestNG-tests-3] DEBUG test.LoginTest - Email addressed got entered
+10:31:06.466 [TestNG-tests-3] DEBUG test.LoginTest - Password got entered
+10:31:07.338 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on Login button
+10:31:07.739 [TestNG-tests-3] DEBUG test.LoginTest - User got logged in
+10:31:09.504 [TestNG-tests-3] INFO  test.LoginTest - Login Test Got Passed
+10:31:15.112 [TestNG-tests-3] DEBUG test.LoginTest - Brower got closed
+10:51:39.107 [TestNG-tests-3] DEBUG test.LoginTest - Browser got launched
+10:51:45.421 [TestNG-tests-3] DEBUG test.LoginTest - Navigated to Application Url
+10:51:45.795 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Account Dropdown
+10:51:48.535 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on My Login Option
+10:51:51.732 [TestNG-tests-3] DEBUG test.LoginTest - Email addressed got entered
+10:51:52.176 [TestNG-tests-3] DEBUG test.LoginTest - Password got entered
+10:51:53.840 [TestNG-tests-3] DEBUG test.LoginTest - Clicked on Login button
+10:51:54.131 [TestNG-tests-3] DEBUG test.LoginTest - User got logged in
+10:51:56.769 [TestNG-tests-3] INFO  test.LoginTest - Login Test Got Passed
+10:52:02.570 [TestNG-tests-3] DEBUG test.LoginTest - Brower got closed
