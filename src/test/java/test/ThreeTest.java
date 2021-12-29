@@ -11,7 +11,7 @@ public class ThreeTest extends Base {
 	public WebDriver driver;
 	@Test
 	public void testThree() throws Exception{
-		system.out.println("Krish has updated this code")
+		System.out.println("Krish has updated this code");
 		System.out.println("Test Three");
 		driver=initializeDriver();
 		driver.get("http://www.tutorialsninja.com/demo/");
